@@ -1,0 +1,9 @@
+#Contoh keslahan dalam menulis program (syntax error)
+
+bilangan_1 = int(input("Masukkan bilangan pertama: "))
+bilangan_2 = int(input("Masukkan bilangan kedua: "))
+
+if bilangan_1 > bilangan2 :
+    print(f"{bilangan_1} adalah bilangan terbesar")
+else:
+    print(f"{bilangan_2} adalah bilangan terbesar")
